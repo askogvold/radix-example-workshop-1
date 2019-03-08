@@ -1,7 +1,7 @@
 apiVersion: radix.equinor.com/v1
 kind: RadixApplication
 metadata:
-  name: radixplayground-arve1
+  name: radixplayground-arve
 spec:
   environments:
     - name: production
